@@ -12,13 +12,11 @@ Requires C++14 compiler
 
 ## Usage
 Run server:
-```
-$ ./os-net-server <port>
-```
+`$ ./os-net-server <port>`
+
 Run client:
-```
-$ ./os-net-client <port>
-```
+`$ ./os-net-client <port>`
+
   
 ## Test
 Tested manually on macOS Mojave 10.14.3 and Linux 4.12.
